@@ -67,7 +67,7 @@ export default class CustomTabBar extends Component {
         });
 
         const scaleValue = (defaultScale) => {
-            let number = 4
+            let number = this.props.tabs.length;
             let arr = new Array(number * 2)
             return arr.fill(0).reduce(function(pre, cur, idx){
                 idx == 0 ? pre.inputRange.push(cur) : pre.inputRange.push(pre.inputRange[idx-1] + 0.5);
