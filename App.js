@@ -10,7 +10,7 @@ import {
 
 import ScrollableTabView , { DefaultTabBar } from 'react-native-scrollable-tab-view'
 
-import CustomTabBar from './CustomTabBar'
+import CustomTabBar from './FlexibleTabBar'
 
 export default class App extends Component<{}> {
   render() {
