@@ -1,7 +1,7 @@
 {
-  "name": "react-native-scroll-customtabbar",
+  "name": "react-native-scrollable-tab-view",
   "version": "1.0.0",
-  "description": "flexible rn-scroll-tab-bar",
+  "description": "flexible react-native-scrollable-tab-view",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
