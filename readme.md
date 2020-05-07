@@ -7,7 +7,7 @@ This package depends on the npm `react-native-scrollable-tab-view`, so you must 
 
 * scroll with bottom-line animation and width change
 
-![scroll-flexiable-tab](be6dfa9ede.gif)
+![scroll-flexiable-tab](https://thumbsnap.com/i/Vsquocec.gif?0507)
 
 # Useage
 
